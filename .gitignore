@@ -1,0 +1,20 @@
+# Byte-compiled / logs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# virtual env
+venv/
+ENV/
+.env
+
+# editor files
+.vscode/
+.idea/
+.DS_Store
+
+# test outputs
+.coverage
+htmlcov/
